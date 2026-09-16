@@ -45,7 +45,7 @@ export default function LeadMagnetPage() {
         {!isSubmitted ? (
           <div>
             <span className="text-sm font-bold tracking-wider text-red-600 uppercase mb-4 block">
-              🩸 GET YOUR COMPLETE BLOOD WORK GUIDE
+               GET YOUR COMPLETE BLOOD WORK GUIDE
             </span>
             
             <h1 className="text-3xl md:text-4xl font-extrabold text-zinc-900 tracking-tight leading-[1.1] mb-4">
@@ -92,10 +92,10 @@ export default function LeadMagnetPage() {
           </div>
         ) : (
           <div className="text-center py-8">
-            <span className="text-4xl mb-4 block">🩸</span>
+            <span className="text-4xl mb-4 block"></span>
             
             <h2 className="text-2xl font-extrabold text-zinc-900 tracking-tight mb-2">
-              YOUR GUIDE IS READY 🩸
+              YOUR GUIDE IS READY 
             </h2>
             
             <p className="text-base text-zinc-600 mb-8">
